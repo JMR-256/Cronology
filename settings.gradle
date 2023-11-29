@@ -1,0 +1,3 @@
+//Application
+rootProject.name = 'Cronology'
+includeBuild 'CronParser'
